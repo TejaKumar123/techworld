@@ -3,4 +3,4 @@ This ia my first project.
 
 The link is: 
 
-https://github.com/TejaKumar123/techworld/index.html
+https://tejakumar123.github.io/techworld/index.html
